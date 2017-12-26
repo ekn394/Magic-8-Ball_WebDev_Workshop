@@ -1,0 +1,26 @@
+
+body {
+	
+	background: #000000;
+	background-image: url("Images/stars.jpg");
+	background-size: cover;
+}
+
+h1 {
+	color: #FFFF33;
+	text-align: left;
+	font: italic 300% fantasy;
+}
+
+p{
+	background-color: #FFFF33;
+	color: #333300;
+	text-align: left;
+	font: 150% fantasy;
+	border: 5px solid #FFFF33;
+}
+
+#myPicture{
+	border-radius: 50%;
+	float: right;
+}
