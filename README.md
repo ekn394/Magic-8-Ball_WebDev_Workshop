@@ -5,5 +5,4 @@
 ### One-hour Beginner Web Dev Workshop.  
 
 <p>Perfect intro project since the HTML, JavaScript, and CSS are all ~20 lines or less. <p>
-<p>Involves relative location to access the image files for the 8 ball.  </p>
 
